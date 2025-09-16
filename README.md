@@ -2,6 +2,7 @@
 
 ## 👨🏻‍💻 About me
 I am passionate about creating interfaces that positively impact the user, own experience in React.js, TypeScript, Tailwind CSS, and Styled Components. I have knowledge of Docker and PostgreSQL, and I bring a unique educational background, which makes me a clear, efficient, and empathetic communicator. I am ready for new challenges and to evolve in the journey of technology!
+
 ---
 
 ## 📫 Meus contatos
