@@ -7,7 +7,7 @@ I am passionate about creating interfaces that positively impact the user, own e
 
 ## 📫 Contact Me
 
-[LinkedIn](https://linkedin.com/in/sarah-dantas-157260382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-dantas-157260382)
 
 ---
 
