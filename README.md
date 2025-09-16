@@ -5,13 +5,13 @@ I am passionate about creating interfaces that positively impact the user, own e
 
 ---
 
-## 📫 Meus contatos
+## 📫 Contact Me
 
-[[LinkedIn (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-](https://www.linkedin.com/in/sarah-dantas-157260382)
+![LinkedIn](https://linkedin.com/in/sarah-dantas-157260382)
+
 ---
 
-## 🛠️ Linguagens
+## 🛠️ Languages
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@ I am passionate about creating interfaces that positively impact the user, own e
 
 ---
 
-## 📚 Libs e Frameworks
+## 📚 Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -33,18 +33,18 @@ I am passionate about creating interfaces that positively impact the user, own e
 
 ---
 
-## 💾 Banco de Dados
+## 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 💾 Backend
+## 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 🚀 Versionamento e Deploy
+## 🚀 Version Control & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
