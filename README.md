@@ -55,3 +55,11 @@ I am passionate about creating interfaces that positively impact the user, own e
 ## 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<p><img align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriodantas&show_icons=true&locale=pt-Br&layout=compact&theme=dark"
+      alt="yuriodantas" /></p>
+
+  <p>&nbsp;<img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=yuriodantas&show_icons=true&locale=pt-Br&theme=dark"
+      alt="yuriodantas" /></p>
