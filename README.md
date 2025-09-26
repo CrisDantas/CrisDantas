@@ -42,7 +42,7 @@ I am passionate about creating interfaces that positively impact the user, with 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="left"
+<p><img"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=crisdantas&show_icons=true&locale=pt-Br&layout=compact&theme=dark"
       alt="crisdantas" /></p>
 
