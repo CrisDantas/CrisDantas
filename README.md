@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Cris 👨🏻‍💻</h1>
 
 ## 👨🏻‍💻 About me
-I am passionate about creating interfaces that positively impact the user, with experience in React.js, TypeScript, Tailwind CSS, and Styled Components. I have knowledge of Docker and PostgreSQL, and I bring a unique educational background, which makes me a clear, efficient, and empathetic communicator. I am ready for new challenges and to evolve in the journey of technology!
+I build interfaces that are not only functional but also aligned with user needs, helping teams deliver faster and with quality. My background as an English teacher gave me strong communication and empathy skills, which I now apply to technology: understanding client pain points and transforming them into clear, logical solutions. With experience in React.js, TypeScript, Tailwind CSS, and Styled Components, plus knowledge of Docker and PostgreSQL, I can support teams by handling essential tasks, optimizing workflows, and growing into more complex challenges as the project or company evolves.
 
 ## 📫 Contact Me
 
